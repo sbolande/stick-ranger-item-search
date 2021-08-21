@@ -1,0 +1,718 @@
+{
+    "Quick's_Card": {
+        "description": "Reduces both min and max AGI by 10%, 20%, 30%, 40%, 50% or 60%. This can reduce the AGI below the classes' AGI limit. The LV7 card usually gives a weapon 2.5× DPS. AGI values are rounded up to the nearest integer.",
+        "restrictions": "None",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Quick's Card 1",
+            "effect": "-10% Limit AGI",
+            "droppedBy": "Green_Boss_Skull_Snake",
+            "location": "GL1",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Quick's Card 2",
+            "effect": "-20% Limit AGI",
+            "droppedBy": "Green_Boss_Cap_Mushroom",
+            "location": "F1",
+            "purchase": 8000,
+            "profit": 1000
+        }, {
+            "name": "Quick's Card 3",
+            "effect": "-30% Limit AGI",
+            "droppedBy": "Pink_Boss_Gel_Spider",
+            "location": "???",
+            "purchase": 12000,
+            "profit": 1500
+        }, {
+            "name": "Quick's Card 4",
+            "effect": "-40% Limit AGI",
+            "droppedBy": "Grey_Boss_Box_Walker",
+            "location": "D1",
+            "purchase": 16000,
+            "profit": 2000
+        }, {
+            "name": "Quick's Card 5",
+            "effect": "-50% Limit AGI",
+            "droppedBy": "White_Boss_Castle_Stickman",
+            "location": "SF4",
+            "purchase": 20000,
+            "profit": 2500
+        }, {
+            "name": "Quick's Card 7",
+            "effect": "-70% Limit AGI",
+            "droppedBy": "White_Boss_Skull_Stickman",
+            "location": "HG",
+            "purchase": "-",
+            "profit": 3500
+        }]
+    },
+    "Long_Sword's_Card": {
+        "description": "Increases length of sword and attack range. It doesn't affect the length of the elemental attack. If the player were to add a Long Sword's Card 3 or higher to a Wooden Sword 5, then the the sword will be the length of two swords or even more. It is also applicable with Katana's Card.",
+        "restrictions": "Swords",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Long Sword's Card 1",
+            "effect": "+5 length of sword",
+            "droppedBy": "Grey_Boss_Skull_Bat",
+            "location": "GL2",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Long Sword's Card 2",
+            "effect": "+8 length of sword",
+            "droppedBy": "Purple_Boss_Cap_Mushroom",
+            "location": "F2",
+            "purchase": 8000,
+            "profit": 1000
+        }, {
+            "name": "Long Sword's Card 3",
+            "effect": "+10 length of sword",
+            "droppedBy": "White_Boss_Roundhead_Mushroom",
+            "location": "MG1",
+            "purchase": 12000,
+            "profit": 1500
+        }, {
+            "name": "Long Sword's Card 4",
+            "effect": "+12 length of sword",
+            "droppedBy": "White_Boss_Skull_Zombie",
+            "location": "D6",
+            "purchase": 16000,
+            "profit": 2000
+        }, {
+            "name": "Long Sword's Card 5",
+            "effect": "+15 length of sword",
+            "droppedBy": "White_Boss_X_Walker",
+            "location": "SF1",
+            "purchase": 20000,
+            "profit": 2500
+        }, {
+            "name": "Long Sword's Card 6",
+            "effect": "+20 length of sword",
+            "droppedBy": "Grey_Boss_Triangle_Tree",
+            "location": "H2",
+            "purchase": "-",
+            "profit": 3000
+        }, {
+            "name": "Long Sword's Card 7",
+            "effect": "+25 length of sword",
+            "droppedBy": "Yellow_Boss_Coconut_Walker",
+            "location": "I2",
+            "purchase": "-",
+            "profit": 3500
+        }]
+    },
+    "Catapult's_Card": {
+        "description": "Increases the Range of the weapon. This is a good card for the Triple Shot lineup, the Rifles, and the Long Staves, as the weapon will then achieve a huge range and potentially the entire screen at 512. It is also good for weapons with low range needing high range, like Electric Shock 5.",
+        "restrictions": "Bows, Orbs, Staves, Guns, or Rings",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Catapult's Card 1",
+            "effect": "+20 length",
+            "droppedBy": "Orange_Boss_Skull_Dragon",
+            "location": "GL3",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Catapult's Card 2",
+            "effect": "+40 length",
+            "droppedBy": "White_Boss_Smiley_Walker",
+            "location": "CV1",
+            "purchase": 8000,
+            "profit": 1000
+        }, {
+            "name": "Catapult's Card 3",
+            "effect": "+60 length",
+            "droppedBy": "Blue_Boss_Roundhead_Eel",
+            "location": "SM3",
+            "purchase": 12000,
+            "profit": 1500
+        }, {
+            "name": "Catapult's Card 4",
+            "effect": "+80 length",
+            "droppedBy": "Orange_Boss_Diamond_Spider",
+            "location": "D4",
+            "purchase": 16000,
+            "profit": 2000
+        }, {
+            "name": "Catapult's Card 5",
+            "effect": "+100 length",
+            "droppedBy": "White_Boss_Castle_Stickman",
+            "location": "SF2",
+            "purchase": 20000,
+            "profit": 2500
+        }, {
+            "name": "Catapult's Card 6",
+            "effect": "+120 length",
+            "droppedBy": "Grey_Boss_Box_Stickman",
+            "location": "H5",
+            "purchase": "-",
+            "profit": 3000
+        }, {
+            "name": "Catapult's Card 7",
+            "effect": "+150 length",
+            "droppedBy": "Green_Boss_Coconut_Spider",
+            "location": "I3",
+            "purchase": "-",
+            "profit": 3500
+        }]
+    },
+    "Pierce's_Card": {
+        "description": "Allows the projectiles to pass through the terrain 25%, 50%, 75%, 100% of the time.\nIt is also useful in Cavern stages. Especially effective when combined with Triple Shot or Quint Shot because of their long range. Applies to all projectiles in the same shot (eg. for a Quad Arrow, either all four bullets gain penetration or all four don't). Combining Pierce's Card with weapons that have bonus attacks activated by touching the terrain (e.g. Volcano, Fire), is counterproductive, because the primary attacks will drop through the ground and the bonus attacks do not appear. The same can be observed for the explosion of the Bazooka, but this is not a big problem, as usually the shot hits the enemy and not the ground.",
+        "restrictions": "Bows, Orbs, and Guns",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Pierce's Card 1",
+            "effect": "25% chance of penetrate",
+            "droppedBy": "Blue_Boss_Fairy_Snake",
+            "location": "GL4",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Pierce's Card 2",
+            "effect": "50% chance of penetrate",
+            "droppedBy": "White_Boss_Skull_Bat",
+            "location": "CV2",
+            "purchase": 8000,
+            "profit": 1000
+        }, {
+            "name": "Pierce's Card 3",
+            "effect": "75% chance of penetrate",
+            "droppedBy": "Tan_Boss_Roundhead_Eel",
+            "location": "SM1",
+            "purchase": 12000,
+            "profit": 1500
+        }, {
+            "name": "Pierce's Card 4",
+            "effect": "100% chance of penetrate",
+            "droppedBy": "Red_Boss_Box_Tree",
+            "location": "D8",
+            "purchase": 16000,
+            "profit": 2000
+        }]
+    },
+    "Guide's_Card": {
+        "description": "Allows projectiles to home towards an enemy within the guide length. 'Guide length' refers to the distance between the center of the projectile and its target.\nUnfortunately, most projectiles are close to be as big or even bigger than this, so they'll hit before the homing ability will apply. Because of this, for most weapons, the effect is too small to be really useful. For the Volcano and the Bazooka, the guiding applies only for the projectile, and not the fire or the clouds of the explosion.\nIt's highly recommended just to use this card on piercing weapons like Fire or Laser Gun since this will create an interesting effect. For the Fire Orb and Delta Explosion, the projectile(s) will fly around the enemy, making it useful for flying enemies, but makes it less effective for Trees. For Laser Gun, the projectile pierces through the target and will home in on subsequent enemies.\nIt's also recommended to use this card with slow projectiles rather than fast projectiles, because the guide effect constantly affects projectiles within the guide length over time. The longer a projectile stays in the guide range, the more it is affected. Therefore, the card has very little effect on most fast projectiles, such as Thunder Storm. On the other hand, however, Thunder Spear is a fast projectile that is surprisingly effective with this card. This is mostly due to the fact that the projectiles, when stuck to the ground, will 'Slide' towards enemies in the homing radius.\nThe Atomic Ray is very useful when combined with this card, as it is able to pierce enemies and even bounce off the ground while doing large amounts of damage to groups of enemies or even single enemies.",
+        "restrictions": "Bows, Orbs, and Guns",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Guide's Card 1",
+            "effect": "+10 guide length",
+            "droppedBy": "Red_Boss_Smiley_Tree",
+            "location": "GL5",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Guide's Card 2",
+            "effect": "+20 guide length",
+            "droppedBy": "Orange_Boss_Skull_Stickman",
+            "location": "CV3",
+            "purchase": 8000,
+            "profit": 1000
+        }, {
+            "name": "Guide's Card 3",
+            "effect": "+30 guide length",
+            "droppedBy": "Pink_Boss_Gel_Spider",
+            "location": "???",
+            "purchase": 12000,
+            "profit": 1500
+        }, {
+            "name": "Guide's Card 4",
+            "effect": "+40 guide length",
+            "droppedBy": "White_Boss_Vampire_Fish",
+            "location": "B1",
+            "purchase": 16000,
+            "profit": 2000
+        }, {
+            "name": "Guide's Card 5",
+            "effect": "+50 guide length",
+            "droppedBy": "Red_Boss_Shield_Zombie",
+            "location": "CV5",
+            "purchase": 20000,
+            "profit": 2500
+        }, {
+            "name": "Guide's Card 6",
+            "effect": "+60 guide length",
+            "droppedBy": "Orange_Boss_Roundhead_Walker",
+            "location": "H3",
+            "purchase": "-",
+            "profit": 3000
+        }, {
+            "name": "Guide's Card 7",
+            "effect": "+70 guide length",
+            "droppedBy": "Yellow_Box_Germ",
+            "location": "CV8",
+            "purchase": "-",
+            "profit": 3500
+        }]
+    },
+    "Bullet's_Card": {
+        "description": "Increases the number of projectiles to the primary/secondary attack. For whips, the Whipper is assumed to have zero DEX. If the Whipper has DEX, then the additional bullets from DEX are added before they are added or multiplied with the bonus from the Bullet's Card.",
+        "restrictions": "Weapons which fire more than one projectile upon attack.",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Bullet's Card 1",
+            "effect": "+1 bullet",
+            "droppedBy": "Purple_Boss_Smiley_Tree",
+            "location": "GL6",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Bullet's Card 2",
+            "effect": "+2 bullet",
+            "droppedBy": "Cyan_Boss_Gel_Dragon",
+            "location": "S3",
+            "purchase": 8000,
+            "profit": 1000
+        }, {
+            "name": "Bullet's Card 3",
+            "effect": "+75% bullet",
+            "droppedBy": "Red_Boss_Gel_Tree",
+            "location": "SM2",
+            "purchase": 12000,
+            "profit": 1500
+        }, {
+            "name": "Bullet's Card 4",
+            "effect": "+100% bullet",
+            "droppedBy": "Grey_Boss_Box_Walker",
+            "location": "D2",
+            "purchase": 16000,
+            "profit": 2000
+        }, {
+            "name": "Bullet's Card 5",
+            "effect": "+6 bullet",
+            "droppedBy": "Red_Boss_Shield_Tree",
+            "location": "CV6",
+            "purchase": 20000,
+            "profit": 2500
+        }, {
+            "name": "Bullet's Card 6",
+            "effect": "+125% bullet",
+            "droppedBy": "Tan_Boss_Diamond_Tree",
+            "location": "H4",
+            "purchase": "-",
+            "profit": 3000
+        }, {
+            "name": "Bullet's Card 7",
+            "effect": "+150% bullet",
+            "droppedBy": "White_Boss_Skull_Stickman",
+            "location": "HG",
+            "purchase": "-",
+            "profit": 3500
+        }]
+    },
+    "Explosion's_Card": {
+        "description": "Splash damage is dealt to surrounding enemies. The splash range is the same as the hitbox of the attack. The splash range of this 'explosion' can vary greatly between weapons.",
+        "restrictions": "Gloves, Bows, Guns, or Rings",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Explosion's Card 1",
+            "effect": "25% chance of explosion damage",
+            "droppedBy": "Orange_Boss_Smiley_Wheel",
+            "location": "GL7",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Explosion's Card 2",
+            "effect": "50% chance of explosion damage",
+            "droppedBy": "Grey_Boss_Roundhead_Snake",
+            "location": "S2",
+            "purchase": 8000,
+            "profit": 1000
+        }, {
+            "name": "Explosion's Card 3",
+            "effect": "75% chance of explosion damage",
+            "droppedBy": "Grey_Boss_Mask_Fish",
+            "location": "SM4",
+            "purchase": 12000,
+            "profit": 1500
+        }, {
+            "name": "Explosion's Card 4",
+            "effect": "100% chance of explosion damage",
+            "droppedBy": "Orange_Boss_Diamond_Snake",
+            "location": "D7",
+            "purchase": 16000,
+            "profit": 2000
+        }]
+    },
+    "Critical's_Card": {
+        "description": "Has a chance to increase the base AT of the weapon by listed damage multiplier. Like the Pierce's Card, either everything increases damage, or nothing increases damage. This card does not affect elemental attacks. Critical's Card is stronger on average, but less reliable than Yellow Crystal, with the level 7 variant giving 2.35× DPS on average. This card was white before ver11.4. For Angels, the Critical's Card effect can be triggered (n+1) times on the nth extra ring thrown by Angels with more than 1 ring. For example, with a Critical's Card 7, a hit from the 2nd ring will have 72.25% chance (0.85×0.85) of dealing normal damage, 25.5% chance (2×0.85×0.15) of dealing 10× damage and 2.25% chance (0.15×0.15) of dealing 100× damage.",
+        "restrictions": "Gloves, Bows, Swords, Guns, Whips, or Rings",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Critical's Card 1",
+            "effect": "25% chance of AT +100%",
+            "droppedBy": "White_Boss_Skull_Stickman",
+            "location": "CG",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Critical's Card 2",
+            "effect": "25% chance of AT +150%",
+            "droppedBy": "Grey_Boss_Roundhead_Walker",
+            "location": "S1",
+            "purchase": 8000,
+            "profit": 1000
+        }, {
+            "name": "Critical's Card 3",
+            "effect": "25% chance of AT +200%",
+            "droppedBy": "Olive_Boss_Star_Tree",
+            "location": "MG3",
+            "purchase": 12000,
+            "profit": 1500
+        }, {
+            "name": "Critical's Card 4",
+            "effect": "25% chance of AT +300%",
+            "droppedBy": "Yellow_Boss_Diamond_Cactus",
+            "location": "D3",
+            "purchase": 16000,
+            "profit": 2000
+        }, {
+            "name": "Critical's Card 5",
+            "effect": "25% chance of AT +400%",
+            "droppedBy": "Red_Boss_Shield_Bat",
+            "location": "CV4",
+            "purchase": 20000,
+            "profit": 2500
+        }, {
+            "name": "Critical's Card 6",
+            "effect": "20% chance of AT +600%",
+            "droppedBy": "Blue_Boss_Gel_Mushroom",
+            "location": "H6",
+            "purchase": "-",
+            "profit": 3000
+        }, {
+            "name": "Critical's Card 7",
+            "effect": "15% chance of AT +900%",
+            "droppedBy": "Brown_Boss_Box_Germ",
+            "location": "BL",
+            "purchase": "-",
+            "profit": 3500
+        }]
+    },
+    "Berserk_Card": {
+        "description": "Increases damage dealt to enemies by this character, but also increases damage received by this character from enemy attacks. It stacks with the Priest's Attack Aura, but doesn't affect the Priest's Defense Aura, and creates a red aura around the equipped character even when not in presence of a Priest with an Attack Aura, if any. It will increase damage received by equipped character, even if the character has 0 defense.",
+        "restrictions": "Gloves, Swords, or Whips",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Berserk Card 1",
+            "effect": "AT +50%, DF -50%",
+            "droppedBy": "White_Boss_Smiley_Snake",
+            "location": "HC3",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Berserk Card 2",
+            "effect": "AT +100%, DF -100%",
+            "droppedBy": "Tan_Boss_Star_Stickman",
+            "location": "S4",
+            "purchase": 8000,
+            "profit": 1000
+        }, {
+            "name": "Berserk Card 3",
+            "effect": "AT +150%, DF -150%",
+            "droppedBy": "Orange_Boss_Roundhead_Tree",
+            "location": "MG2",
+            "purchase": 12000,
+            "profit": 1500
+        }, {
+            "name": "Berserk Card 4",
+            "effect": "AT +200%, DF -200%",
+            "droppedBy": "White_Boss_Box_Stickman",
+            "location": "D5",
+            "purchase": 16000,
+            "profit": 2000
+        }, {
+            "name": "Berserk Card 5",
+            "effect": "AT +250%, DF -250%",
+            "droppedBy": "White_Boss_Castle_Dragon",
+            "location": "SF3",
+            "purchase": 20000,
+            "profit": 2500
+        }, {
+            "name": "Berserk Card 6",
+            "effect": "AT +300%, DF -200%",
+            "droppedBy": "White_Boss_Triangle_Walker",
+            "location": "I1",
+            "purchase": "-",
+            "profit": 3000
+        }, {
+            "name": "Berserk Card 7",
+            "effect": "AT +350%, DF -200%",
+            "droppedBy": "Brown_Boss_Box_Germ",
+            "location": "BL",
+            "purchase": "-",
+            "profit": 3500
+        }]
+    },
+    "Big_Card": {
+        "description": "Increases the hitbox of the gloves or the tip of the whip. It also enlarges the size of the glove or the head of the whip from 3x3 to 5x5 regardless of the card level.",
+        "restrictions": "Gloves or Whips",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Big Card 1",
+            "effect": "50% attack range",
+            "droppedBy": "White_Boss_X_Walker",
+            "location": "HC1",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Big Card 2",
+            "effect": "100% attack range",
+            "droppedBy": "Grey_Boss_Roundhead_Walker",
+            "location": "S1",
+            "purchase": 8000,
+            "profit": 1000
+        }, {
+            "name": "Big Card 3",
+            "effect": "150% attack range",
+            "droppedBy": "White_Boss_Roundhead_Mushroom",
+            "location": "MG1",
+            "purchase": 12000,
+            "profit": 1500
+        }, {
+            "name": "Big Card 4",
+            "effect": "200% attack range",
+            "droppedBy": "Yellow_Boss_Vampire_Eel",
+            "location": "B3",
+            "purchase": 16000,
+            "profit": 2000
+        }, {
+            "name": "Big Card 5",
+            "effect": "300% attack range",
+            "droppedBy": "White_Boss_Vampire_Tree",
+            "location": "SF5",
+            "purchase": 20000,
+            "profit": 2500
+        }]
+    },
+    "Knockback's_Card": {
+        "description": "Has a chance to make all projectiles in a character's shot knock an enemy away on impact. The strength of the knockback depends on card level. Larger enemies are less affected by the knockback effect and immobile enemies only shake in position when the effect is executed on them. Even if the attack does splash damage, only the 'primary target' will be knocked back.",
+        "restrictions": "Gloves, Bows, Orbs, Guns, or Whips",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Knockback's Card 1",
+            "effect": "25% chance of knockback 20",
+            "droppedBy": "Orange_Boss_Skull_Bat",
+            "location": "HC2",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Knockback's Card 2",
+            "effect": "50% chance of knockback 20",
+            "droppedBy": "Grey_Boss_Roundhead_Snake",
+            "location": "S2",
+            "purchase": 8000,
+            "profit": 1000
+        }, {
+            "name": "Knockback's Card 3",
+            "effect": "50% chance of knockback 30",
+            "droppedBy": "Pink_Boss_Gel_Spider",
+            "location": "???",
+            "purchase": 12000,
+            "profit": 1500
+        }, {
+            "name": "Knockback's Card 4",
+            "effect": "100% chance of knockback 30",
+            "droppedBy": "Red_Boss_Box_Tree",
+            "location": "D8",
+            "purchase": 16000,
+            "profit": 2000
+        }, {
+            "name": "Knockback's Card 5",
+            "effect": "30% chance of knockback 90",
+            "droppedBy": "Orange_Boss_Castle_Stickman",
+            "location": "SF6",
+            "purchase": 20000,
+            "profit": 2500
+        }]
+    },
+    "Reflection_Card": {
+        "description": "Allows the projectiles to bounce off terrain. It has a chance to allow all projectiles in a single attack to bounce off terrain. It has no effect if the projectiles penetrate through terrain. Reflection Card 4 will effectively allow projectiles from some weapons, such as Quad Steel Arrow, to travel from one end of the screen to the other end. The Whipper can use Reflection's Card, but not Pierce's Card.",
+        "restrictions": "Bows, Orbs, Guns, Whips, or Rings",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Reflection Card 1",
+            "effect": "25% chance of reflection",
+            "droppedBy": "White_Boss_Smiley_Fish",
+            "location": "Lake",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Reflection Card 2",
+            "effect": "50% chance of reflection",
+            "droppedBy": "Tan_Boss_Star_Stickman",
+            "location": "S4",
+            "purchase": 8000,
+            "profit": 1000
+        }, {
+            "name": "Reflection Card 3",
+            "effect": "75% chance of reflection",
+            "droppedBy": "Yellow_Boss_Vampire_Eel",
+            "location": "B3",
+            "purchase": 12000,
+            "profit": 1500
+        }, {
+            "name": "Reflection Card 4",
+            "effect": "100% chance of reflection",
+            "droppedBy": "Yellow_Boss_Gel_Tree",
+            "location": "SF8",
+            "purchase": 16000,
+            "profit": 2000
+        }]
+    },
+    "Katana's_Card": {
+        "description": "Increases both the base AT and the length of the sword. Is essentially a combination (as well as a level sum) of the Long Sword's Card 3 and Yellow Crystal 3/4 into a single compo item. Equipping this with a Long Sword's Card will increase the sword length by the sum of increments from both cards.",
+        "restrictions": "Swords",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Katana's Card 6",
+            "effect": "AT +40%, +10 sword length",
+            "droppedBy": "Green_Boss_Gel_Bouncer",
+            "location": "F4",
+            "purchase": "-",
+            "profit": 3000
+        }, {
+            "name": "Katana's Card 7",
+            "effect": "AT +50%, +10 sword length",
+            "droppedBy": "Yellow_Boss_Coconut_Walker",
+            "location": "I2",
+            "purchase": "-",
+            "profit": 3500
+        }]
+    },
+    "Heal's_Card": {
+        "description": "This card heals the character by the specified LP at each attack. For the Angel, each hit by the rings heals the Angel. For the Priest, all other characters will be healed instead.",
+        "restrictions": "None",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Heal's Card 1",
+            "effect": "Heal to attack each +1",
+            "droppedBy": "Grey_Boss_Triangle_Walker",
+            "location": "H1",
+            "purchase": 48000,
+            "profit": 6000
+        }, {
+            "name": "Heal's Card 2",
+            "effect": "Heal to attack each +2",
+            "droppedBy": "Grey_Boss_Triangle_Walker",
+            "location": "H1",
+            "purchase": "-",
+            "profit": 6000
+        }]
+    },
+    "Ring's_Card": {
+        "description": "Gives an extra ring to the Angel, which also allows the Angel to surpass the original maximum Ring limit of 5 from DEX investments. At LV2 or higher it also gives an LP boost. This card can be considered a fusion of the Angel's DEX (or a Green Stone) and a White Stone.",
+        "restrictions": "Rings",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Ring's Card 1",
+            "effect": "Ring +1",
+            "droppedBy": "Orange_Boss_Skull_Dragon",
+            "location": "GL3",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Ring's Card 2",
+            "effect": "Ring +1, LP +50",
+            "droppedBy": "Purple_Boss_Cap_Mushroom",
+            "location": "F2",
+            "purchase": 8000,
+            "profit": 1000
+        }, {
+            "name": "Ring's Card 3",
+            "effect": "Ring +1, LP +100",
+            "droppedBy": "Red_Boss_Gel_Tree",
+            "location": "SM2",
+            "purchase": 12000,
+            "profit": 1500
+        }, {
+            "name": "Ring's Card 4",
+            "effect": "Ring +1, LP +150",
+            "droppedBy": "White_Boss_Vampire_Fish",
+            "location": "B1",
+            "purchase": 16000,
+            "profit": 2000
+        }, {
+            "name": "Ring's Card 5",
+            "effect": "Ring +1, LP +200",
+            "droppedBy": "White_Boss_Castle_Dragon",
+            "location": "SF3",
+            "purchase": 20000,
+            "profit": 2500
+        }, {
+            "name": "Ring's Card 6",
+            "effect": "Ring +1, LP +300",
+            "droppedBy": "Yellow_Boss_Coconut_Wheel",
+            "location": "F3",
+            "purchase": "-",
+            "profit": 3000
+        }]
+    },
+    "Vampire's_Card": {
+        "description": "Every time the character swings his weapon and hit enemies, the character regains an amount of LP equal to 3%, 4% or 5% of the total direct damage dealt in that blow, rounded down. This value cannot go below 1. Magical attacks do not trigger LP recovery. The healing effect stacks with the Critical's Card. The most effective weapons to use with this compo item are weapons which create a lot of separate hits. These can either be weapons with a very high attack speed (for instance the Mach Punch or Sonic Punch) or weapons that deal a lot of damage to a fairly large area, such as swords. When attacking large clusters of enemies with this compo item attached to a sword, maximum LP recovery may happen. Combining Sonic Knuckle, or any sword, Vampire's Card 4 and Quick's Card 4 will, in big clusters, result in rapid LP recovery (depending on the setup used, it may be that ONIGIRI's Card is superior to this).",
+        "restrictions": "Gloves, Swords, or Whips",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Vampire's Card 1",
+            "effect": "3% LP recovery per damage",
+            "droppedBy": "Castle_Boss",
+            "location": "Castle",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Vampire's Card 3",
+            "effect": "4% LP recovery per damage",
+            "droppedBy": "Submarine_Shrine_Boss",
+            "location": "SMShrine",
+            "purchase": "-",
+            "profit": 1000
+        }, {
+            "name": "Vampire's Card 4",
+            "effect": "5% LP recovery per damage",
+            "droppedBy": "Pyramid_Boss",
+            "location": "Pyramid",
+            "purchase": "-",
+            "profit": 1500
+        }]
+    },
+    "ONIGIRI's_Card": {
+        "description": "Every time the character hits an enemy, there is a 5% chance an onigiri drops. Magical attacks do not trigger the onigiri drop. The most effective weapons to use with this compo item are weapons which create a lot of separate hits. This can either be weapons with a very high attack speed (for instance the Mach Punch or Sonic Punch) or weapons that deal a lot of damage to a fairly large area, such as swords. When attacking large clusters of enemies with this compo item attached to a sword, whip, or glove, a huge number of onigiri may drop. Depending on the setup, the Vampire's Card may be a better choice. The Silver Medal is a potential alternative to the ONIGIRI's Card, particularly if a party has no Gladiators, Boxers, or Whippers.",
+        "restrictions": "Gloves, Swords, or Whips",
+        "imagePath": "",
+        "itemList": [{
+            "name": "ONIGIRI's Card 1",
+            "effect": "5% chance of ONIGIRI drop per hit",
+            "droppedBy": "Castle_Boss",
+            "location": "Castle",
+            "purchase": "-",
+            "profit": 1000
+        }]
+    },
+    "Gold_Rush_Card": {
+        "description": "Every time the player hits an enemy, there is a 5% chance that Gold drops. Magical attacks do not trigger the gold drop. The amount of money correlates with the damage done to the enemies. In addition, hitting several enemies results in higher money values, making this card especially compatible with weapons which deals splash damage as primary attacks, such as whips and the Sonic Cestus. The amount of money is also influenced by the Gold Medals, which can result in even higher gold drop amounts.",
+        "restrictions": "Gloves, Swords, or Whips",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Gold Rush Card 1",
+            "effect": "5% chance of GOLD drop per hit",
+            "droppedBy": "Submarine_Shrine_Boss",
+            "location": "SMShrine",
+            "purchase": "-",
+            "profit": 2000
+        }]
+    },
+    "Zombie's_Card": {
+        "description": "This card multiplies the character's LP by 1.5x, but that character will receive twice the damage from fire attacks. Note that the LP increments from White Stones can be multiplied with this card but not the LP increments from the Ring's Card. It also turns the character into a zombie (purple body with a white box head) and surrounds it in more shade than a regular stickman (more noticeable when underwater)",
+        "restrictions": "None",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Zombie's Card 4",
+            "effect": "+50% LP, -100% fire damage",
+            "droppedBy": "Pyramid_Boss",
+            "location": "Pyramid",
+            "purchase": "-",
+            "profit": 3000
+        }]
+    }
+}

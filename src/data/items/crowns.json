@@ -1,0 +1,49 @@
+{
+    "Imperial_Crown": {
+        "description": "Increases the number of enemies on screen and also the maximum enemy amount allowed by the specified percentage, rounded down to the nearest integer.\nThis compo item's effect is active even when characters are NOT equipping the compo item. As long as the Imperial Crown is equipped on characters, found in the inventory or equipped on any weapon in the inventory the effect will be active. Multiple Imperial Crowns stack their effects additively, but there is a limit of +200%, where enemy counts will be tripled. In case characters are using weapons equipped with an Imperial Crown the crown can be seen on the character's head. On some stages where the same enemy is spawned by parts in the code, the enemy count may not be exactly 150% or 250% of the original for certain combinations of Imperial Crowns.",
+        "restrictions": "None",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Imperial Crown 0",
+            "effect": "+50% Enemy (Passive)",
+            "droppedBy": "Hell_Castle_Boss",
+            "location": "Hell_Castle",
+            "purchase": "-",
+            "profit": 50
+        }, {
+            "name": "Imperial Crown 2",
+            "effect": "+100% Enemy (Passive)",
+            "droppedBy": "-",
+            "location": "-",
+            "purchase": "-",
+            "profit": 50
+        }, {
+            "name": "Imperial Crown 3",
+            "effect": "+150% Enemy (Passive)",
+            "droppedBy": "-",
+            "location": "-",
+            "purchase": "-",
+            "profit": 50
+        }, {
+            "name": "Imperial Crown 4",
+            "effect": "+200% Enemy (Passive)",
+            "droppedBy": "-",
+            "location": "-",
+            "purchase": "-",
+            "profit": 50
+        }]
+    },
+    "Anger_Crown": {
+        "description": "Gives various effect when the team's LV is increased. The effects include:\n\u00a0\u2022 A yellow shade around all characters which last for 2.4s.\n\u00a0\u2022 Heals all characters' LP to their own maximum values, which also revives any dead characters.\n\u00a0\u2022 Summons a huge laser, like the residue from the Grey Big Box Snake, on all characters which deals splash Thunder damage to enemies, with an AT of 1-9999.\n\u00a0\u2022 Summons shurikens which rises up from each character's body parts per frame for 1.8s. Each shuriken deals Thunder damage with AT 1-999.\nThis compo item's effect is active even when characters are NOT equipping the compo item. As long as the Anger Crown is equipped on characters, found in the inventory or equipped on any weapon in the inventory the effect will be active. Multiple Anger Crowns do not give additional effects. The shade effect and the shuriken summoning will continue even when the game is paused by opening the options tab. In case characters are using weapons equipped with an Anger Crown the crown can be seen on the character's head. If both Imperial Crown and Anger Crown are equipped on the same weapon the Anger Crown takes precedence. Only one Anger Crown can be transferred to the new game when Restart Mode is utilised.",
+        "restrictions": "None",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Anger Crown 0",
+            "effect": "LVL up effect (Passive)",
+            "droppedBy": "Yellow_Boss_Box_Eel",
+            "location": "Volcano",
+            "purchase": "-",
+            "profit": 50
+        }]
+    }
+}

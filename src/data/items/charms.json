@@ -1,0 +1,104 @@
+{
+    "Ice_Charm": {
+        "description": "N/A",
+        "restrictions": "None",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Ice Charm 1",
+            "effect": "50% ice invalid",
+            "droppedBy": "Blue_Big_Skull_Bat",
+            "location": "HC2",
+            "purchase": 2000,
+            "profit": 250
+        }, {
+            "name": "Ice Charm 2",
+            "effect": "80% ice invalid",
+            "droppedBy": "Cyan_Boss_Gel_Dragon",
+            "location": "S3",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Ice Charm 3",
+            "effect": "90% ice invalid",
+            "droppedBy": "Grey_Boss_Box_Walker",
+            "location": "D2",
+            "purchase": 6000,
+            "profit": 750
+        }, {
+            "name": "Ice Charm 4",
+            "effect": "95% ice invalid",
+            "droppedBy": "Blue_Shield_Eel",
+            "location": "CV4",
+            "purchase": 8000,
+            "profit": 1000
+        }]
+    },
+    "Poison_Charm": {
+        "description": "N/A",
+        "restrictions": "None",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Poison Charm 1",
+            "effect": "50% poison invalid",
+            "droppedBy": "Green_Big_Smiley_Walker",
+            "location": "HC1",
+            "purchase": 2000,
+            "profit": 250
+        }, {
+            "name": "Poison Charm 2",
+            "effect": "80% poison invalid",
+            "droppedBy": "Olive_Boss_Star_Tree",
+            "location": "MG3",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Poison Charm 3",
+            "effect": "90% poison invalid",
+            "droppedBy": "Red_Gel_Zombie",
+            "location": "D6",
+            "purchase": 6000,
+            "profit": 750
+        }, {
+            "name": "Poison Charm 4",
+            "effect": "95% poison invalid",
+            "droppedBy": "Blue_Big_Shield_Eel",
+            "location": "CV5",
+            "purchase": 8000,
+            "profit": 1000
+        }]
+    },
+    "Freeze_Charm": {
+        "description": "N/A",
+        "restrictions": "None",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Freeze Charm 1",
+            "effect": "50% freeze invalid",
+            "droppedBy": "Green_Big_Fairy_Snake",
+            "location": "HC3",
+            "purchase": 2000,
+            "profit": 250
+        }, {
+            "name": "Freeze Charm 2",
+            "effect": "80% freeze invalid",
+            "droppedBy": "Blue_Boss_Roundhead_Eel",
+            "location": "SM3",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Freeze Charm 3",
+            "effect": "90% freeze invalid",
+            "droppedBy": "Cyan_Box_Eel",
+            "location": "D5",
+            "purchase": 6000,
+            "profit": 750
+        }, {
+            "name": "Freeze Charm 4",
+            "effect": "95% freeze invalid",
+            "droppedBy": "Tan_Big_Box_Snake",
+            "location": "B3",
+            "purchase": 8000,
+            "profit": 1000
+        }]
+    }
+}

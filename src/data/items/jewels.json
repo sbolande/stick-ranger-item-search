@@ -1,0 +1,442 @@
+{
+    "Emerald": {
+        "description": "N/A",
+        "restrictions": "Weapons with type poison.",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Emerald 1",
+            "effect": "Add 0-1 poison damage",
+            "droppedBy": "Red_Big_Skull_Dragon",
+            "location": "GL3",
+            "purchase": 2000,
+            "profit": 250
+        }, {
+            "name": "Emerald 2",
+            "effect": "Add 1-1 poison damage",
+            "droppedBy": "Green_Roundhead_Walker",
+            "location": "S1",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Emerald 3",
+            "effect": "Add 1-2 poison damage",
+            "droppedBy": "Green_Gel_Wheel",
+            "location": "MG3",
+            "purchase": 6000,
+            "profit": 750
+        }, {
+            "name": "Emerald 4",
+            "effect": "Add 2-2 poison damage",
+            "droppedBy": "Cyan_Fairy_Bat",
+            "location": "B2",
+            "purchase": 8000,
+            "profit": 1000
+        }, {
+            "name": "Emerald 5",
+            "effect": "Add 2-3 poison damage",
+            "droppedBy": "Orange_Castle_Snake",
+            "location": "SF7",
+            "purchase": 10000,
+            "profit": 1250
+        }, {
+            "name": "Emerald 6",
+            "effect": "Add 3-3 poison damage",
+            "droppedBy": "Green_Big_Diamond_Tree",
+            "location": "H2",
+            "purchase": "-",
+            "profit": 1500
+        }, {
+            "name": "Emerald 7",
+            "effect": "Add 3-4 poison damage",
+            "droppedBy": "Green_Box_Wheel",
+            "location": "H7",
+            "purchase": "-",
+            "profit": 1750
+        }]
+    },
+    "Ruby": {
+        "description": "N/A",
+        "restrictions": "Weapons with type fire.",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Ruby 1",
+            "effect": "Add 1-2 fire damage",
+            "droppedBy": "Green_Skull_Dragon",
+            "location": "GL3",
+            "purchase": 2000,
+            "profit": 250
+        }, {
+            "name": "Ruby 2",
+            "effect": "Add 3-4 fire damage",
+            "droppedBy": "Orange_Skull_Stickman",
+            "location": "CV3",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Ruby 3",
+            "effect": "Add 5-6 fire damage",
+            "droppedBy": "Yellow_Roundhead_Bat",
+            "location": "MG2",
+            "purchase": 6000,
+            "profit": 750
+        }, {
+            "name": "Ruby 4",
+            "effect": "Add 6-9 fire damage",
+            "droppedBy": "Orange_Skull_Spider",
+            "location": "B1",
+            "purchase": 8000,
+            "profit": 1000
+        }, {
+            "name": "Ruby 5",
+            "effect": "Add 8-12 fire damage",
+            "droppedBy": "Grey_Big_X_Walker",
+            "location": "M2",
+            "purchase": 10000,
+            "profit": 1250
+        }, {
+            "name": "Ruby 6",
+            "effect": "Add 10-15 fire damage",
+            "droppedBy": "Orange_Triangle_Stickman",
+            "location": "H1",
+            "purchase": "-",
+            "profit": 1500
+        }, {
+            "name": "Ruby 7",
+            "effect": "Add 15-20 fire damage",
+            "droppedBy": "Grey_Big_Diamond_Germ",
+            "location": "H8",
+            "purchase": "-",
+            "profit": 1750
+        }]
+    },
+    "Sapphire": {
+        "description": "N/A",
+        "restrictions": "Weapons with type ice.",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Sapphire 1",
+            "effect": "Add 3-5 ice damage",
+            "droppedBy": "Green_Smiley_Snake",
+            "location": "GL3",
+            "purchase": 2000,
+            "profit": 250
+        }, {
+            "name": "Sapphire 2",
+            "effect": "Add 6-10 ice damage",
+            "droppedBy": "Purple_Skull_Bat",
+            "location": "CV2",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Sapphire 3",
+            "effect": "Add 9-15 ice damage",
+            "droppedBy": "Olive_Roundhead_Stickman",
+            "location": "MG3",
+            "purchase": 6000,
+            "profit": 750
+        }, {
+            "name": "Sapphire 4",
+            "effect": "Add 12-20 ice damage",
+            "droppedBy": "White_Big_Vampire_Fish",
+            "location": "B1",
+            "purchase": 8000,
+            "profit": 1000
+        }, {
+            "name": "Sapphire 5",
+            "effect": "Add 15-25 ice damage",
+            "droppedBy": "Blue_Diamond_Mushroom",
+            "location": "SF7",
+            "purchase": 10000,
+            "profit": 1250
+        }, {
+            "name": "Sapphire 6",
+            "effect": "Add 18-30 ice damage",
+            "droppedBy": "White_Triangle_Germ",
+            "location": "H2",
+            "purchase": "-",
+            "profit": 1500
+        }, {
+            "name": "Sapphire 7",
+            "effect": "Add 21-35 ice damage",
+            "droppedBy": "Cyan_Triangle_Snake",
+            "location": "H8",
+            "purchase": "-",
+            "profit": 1750
+        }]
+    },
+    "Topaz": {
+        "description": "N/A",
+        "restrictions": "Weapons with type thunder.",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Topaz 1",
+            "effect": "Add 0-4 thunder damage",
+            "droppedBy": "Green_Skull_Bat",
+            "location": "GL3",
+            "purchase": 2000,
+            "profit": 250
+        }, {
+            "name": "Topaz 2",
+            "effect": "Add 0-9 thunder damage",
+            "droppedBy": "Yellow_Skull_Fish,Yellow_Smiley_Fish,Yellow_Fairy_Fish",
+            "location": "CV1,CV2,CV3",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Topaz 3",
+            "effect": "Add 0-15 thunder damage",
+            "droppedBy": "Olive_Star_Mushroom",
+            "location": "MG3",
+            "purchase": 6000,
+            "profit": 750
+        }, {
+            "name": "Topaz 4",
+            "effect": "Add 0-22 thunder damage",
+            "droppedBy": "Olive_Gel_Dragon",
+            "location": "B1",
+            "purchase": 8000,
+            "profit": 1000
+        }, {
+            "name": "Topaz 5",
+            "effect": "Add 0-30 thunder damage",
+            "droppedBy": "Red_Roundhead_Copter",
+            "location": "M2",
+            "purchase": 10000,
+            "profit": 1250
+        }, {
+            "name": "Topaz 6",
+            "effect": "Add 0-39 thunder damage",
+            "droppedBy": "Yellow_Big_Coconut_Snake",
+            "location": "H2",
+            "purchase": "-",
+            "profit": 1500
+        }, {
+            "name": "Topaz 7",
+            "effect": "Add 0-49 thunder damage",
+            "droppedBy": "Yellow_Big_Box_Wheel",
+            "location": "H7",
+            "purchase": "-",
+            "profit": 1750
+        }]
+    },
+    "Peridot": {
+        "description": "N/A",
+        "restrictions": "Weapons with type poison.",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Peridot 1",
+            "effect": "+1s poison length",
+            "droppedBy": "Blue_Fairy_Snake",
+            "location": "GL4",
+            "purchase": 2000,
+            "profit": 250
+        }, {
+            "name": "Peridot 2",
+            "effect": "+2s poison length",
+            "droppedBy": "Green_Cap_Snake",
+            "location": "CV1",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Peridot 3",
+            "effect": "+3s poison length",
+            "droppedBy": "Green_Gel_Bat",
+            "location": "MG1",
+            "purchase": 6000,
+            "profit": 750
+        }, {
+            "name": "Peridot 4",
+            "effect": "+4s poison length",
+            "droppedBy": "Orange_Boss_Vampire_Eel",
+            "location": "B2",
+            "purchase": 8000,
+            "profit": 1000
+        }, {
+            "name": "Peridot 5",
+            "effect": "+5s poison length",
+            "droppedBy": "Red_Boss_Roundhead_Copter",
+            "location": "M2",
+            "purchase": 10000,
+            "profit": 1250
+        }, {
+            "name": "Peridot 6",
+            "effect": "+6s poison length",
+            "droppedBy": "Green_Big_Diamond_Tree",
+            "location": "H2",
+            "purchase": "-",
+            "profit": 1500
+        }, {
+            "name": "Peridot 7",
+            "effect": "+7s poison length",
+            "droppedBy": "Brown_Big_Box_Wheel",
+            "location": "H7",
+            "purchase": "-",
+            "profit": 1750
+        }]
+    },
+    "Garnet": {
+        "description": "For the Flame Sword, Flame Sabel, Inferno, and the Hell Fire the Garnet allows the flames to go further.",
+        "restrictions": "Weapons with type fire.",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Garnet 1",
+            "effect": "+0.4s fire length",
+            "droppedBy": "Red_Fairy_Snake",
+            "location": "GL4",
+            "purchase": 2000,
+            "profit": 250
+        }, {
+            "name": "Garnet 2",
+            "effect": "+0.6s fire length",
+            "droppedBy": "Orange_Skull_Bat",
+            "location": "CV3",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Garnet 3",
+            "effect": "+0.8s fire length",
+            "droppedBy": "Yellow_Roundhead_Dragon",
+            "location": "MG2",
+            "purchase": 6000,
+            "profit": 750
+        }, {
+            "name": "Garnet 4",
+            "effect": "+1.1s fire length",
+            "droppedBy": "Orange_Boss_Vampire_Eel",
+            "location": "B2",
+            "purchase": 8000,
+            "profit": 1000
+        }, {
+            "name": "Garnet 5",
+            "effect": "+1.4s fire length",
+            "droppedBy": "Grey_Castle_Stickman",
+            "location": "M2",
+            "purchase": 10000,
+            "profit": 1250
+        }, {
+            "name": "Garnet 6",
+            "effect": "+1.7s fire length",
+            "droppedBy": "Grey_Triangle_Walker",
+            "location": "H1",
+            "purchase": "-",
+            "profit": 1500
+        }, {
+            "name": "Garnet 7",
+            "effect": "+2.0s fire length",
+            "droppedBy": "Grey_Big_Diamond_Germ",
+            "location": "H8",
+            "purchase": "-",
+            "profit": 1750
+        }]
+    },
+    "Aquamarine": {
+        "description": "Increases the Slow percentage, which improves the slowing effect.",
+        "restrictions": "Weapons with type ice.",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Aquamarine 1",
+            "effect": "+5% cold effect",
+            "droppedBy": "Grey_X_Walker",
+            "location": "GL4",
+            "purchase": 2000,
+            "profit": 250
+        }, {
+            "name": "Aquamarine 2",
+            "effect": "+10% cold effect",
+            "droppedBy": "Pink_Fairy_Bat",
+            "location": "CV2",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Aquamarine 3",
+            "effect": "+15% cold effect",
+            "droppedBy": "White_Roundhead_Tree",
+            "location": "MG1",
+            "purchase": 6000,
+            "profit": 750
+        }, {
+            "name": "Aquamarine 4",
+            "effect": "+20% cold effect",
+            "droppedBy": "Blue_Fairy_Dragon",
+            "location": "B2",
+            "purchase": 8000,
+            "profit": 1000
+        }, {
+            "name": "Aquamarine 5",
+            "effect": "+25% cold effect",
+            "droppedBy": "White_Big_Vampire_Snake",
+            "location": "SF7",
+            "purchase": 10000,
+            "profit": 1250
+        }, {
+            "name": "Aquamarine 6",
+            "effect": "+30% cold effect",
+            "droppedBy": "White_Triangle_Germ",
+            "location": "H2",
+            "purchase": "-",
+            "profit": 1500
+        }, {
+            "name": "Aquamarine 7",
+            "effect": "+35% cold effect",
+            "droppedBy": "Pink_Boss_Triangle_Snake",
+            "location": "H8",
+            "purchase": "-",
+            "profit": 1750
+        }]
+    },
+    "Diamond": {
+        "description": "This jewel has doubled buying and selling price of other jewels at LV 1 but at normal prices at other levels. A theory behind this states that they were going to be higher cost than other jewels, but was never implemented for some reason.",
+        "restrictions": "Weapons with type freeze.",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Diamond 1",
+            "effect": "+0.1s freeze length",
+            "droppedBy": "White_Skull_Stickman",
+            "location": "CG",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Diamond 2",
+            "effect": "+0.2s freeze length",
+            "droppedBy": "White_Boss_Smiley_Walker",
+            "location": "CV1",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Diamond 3",
+            "effect": "+0.3s freeze length",
+            "droppedBy": "White_Roundhead_Mushroom",
+            "location": "MG1",
+            "purchase": 6000,
+            "profit": 750
+        }, {
+            "name": "Diamond 4",
+            "effect": "+0.4s freeze length",
+            "droppedBy": "White_Vampire_Eel",
+            "location": "B2",
+            "purchase": 8000,
+            "profit": 1000
+        }, {
+            "name": "Diamond 5",
+            "effect": "+0.5s freeze length",
+            "droppedBy": "White_Boss_Castle_Snake",
+            "location": "SF7",
+            "purchase": 10000,
+            "profit": 1250
+        }, {
+            "name": "Diamond 6",
+            "effect": "+0.6s freeze length",
+            "droppedBy": "White_Triangle_Stickman",
+            "location": "H1",
+            "purchase": "-",
+            "profit": 1500
+        }, {
+            "name": "Diamond 7",
+            "effect": "+0.7s freeze length",
+            "droppedBy": "Red_Boss_Box_Wheel",
+            "location": "H7",
+            "purchase": "-",
+            "profit": 1750
+        }]
+    }
+}

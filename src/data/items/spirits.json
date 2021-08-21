@@ -1,0 +1,117 @@
+{
+    "Fire_Spirit": {
+        "description": "Releases fire type projectiles upon an enemy's death on the position of that enemy at given rate:\n\u00a0\u2022 LV 1 releases 3 heat clouds with AT of 5-15 (Burn 5%) and last for 2 seconds, and spread out in short radius.\n\u00a0\u2022 LV 2 releases 16 heat clouds with AT of 30-50 (Burn 5%) and last for 3 seconds, and spread out in a bigger radius than LV1.\n\u00a0\u2022 LV 3 releases 16 heat clouds with AT of 30-50 (Burn 5%) and last for 2 seconds, moving in a slightly spreading stream towards the nearest enemy.\n\u00a0\u2022 LV 4 releases 4 lasers similar to those from the Atomic Ray with an AT of 60-100 (Burn 8%).",
+        "restrictions": "None",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Fire Spirit 1",
+            "effect": "100% enemy dies fire",
+            "droppedBy": "Orange_Boss_Skull_Bat",
+            "location": "HC2",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Fire Spirit 2",
+            "effect": "10% enemy dies fire explosion",
+            "droppedBy": "Orange_Boss_Skull_Stickman",
+            "location": "CV3",
+            "purchase": 8000,
+            "profit": 1000
+        }, {
+            "name": "Fire Spirit 3",
+            "effect": "10% enemy dies flame",
+            "droppedBy": "Orange_Boss_Roundhead_Tree",
+            "location": "MG2",
+            "purchase": 12000,
+            "profit": 1500
+        }, {
+            "name": "Fire Spirit 4",
+            "effect": "10% enemy dies atomic ray",
+            "droppedBy": "Orange_Boss_Diamond_Snake",
+            "location": "D7",
+            "purchase": 16000,
+            "profit": 2000
+        }]
+    },
+    "Thunder_Spirit": {
+        "description": "Releases thunder type projectiles upon an enemy's death at given rate:\n\u00a0\u2022 LV 1 releases a thunder bolt which aims at the nearest enemy with an AT of 1-99.\n\u00a0\u2022 LV 2 releases 10 thunder bolts, each being spread out in horizontal direction and having an AT of 1-99.\n\u00a0\u2022 LV 3 releases a big thunderbolt above the nearest enemy which can hit multiple enemies with an AT of 1-333.\n\u00a0\u2022 LV 4 releases a thunder ball which aims at the nearest enemy and leaves a trail of thunder mines (30% chance of spawning a mine each frame), mimicing the attack of the Yellow Boss Box Eel (Oasis). The ball deals an AT of 1-9999 and the mines have an AT of 1-9.",
+        "restrictions": "None",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Thunder Spirit 1",
+            "effect": "50% enemy dies thunder",
+            "droppedBy": "White_Boss_X_Walker",
+            "location": "HC1",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Thunder Spirit 2",
+            "effect": "10% enemy dies lightning",
+            "droppedBy": "White_Boss_Skull_Bat",
+            "location": "CV2",
+            "purchase": 8000,
+            "profit": 1000
+        }, {
+            "name": "Thunder Spirit 3",
+            "effect": "10% enemy dies big thunder",
+            "droppedBy": "Grey_Boss_Mask_Fish",
+            "location": "SM4",
+            "purchase": 12000,
+            "profit": 1500
+        }, {
+            "name": "Thunder Spirit 4",
+            "effect": "5% enemy dies thunder ball",
+            "droppedBy": "Yellow_Boss_Box_Eel",
+            "location": "Oasis",
+            "purchase": 16000,
+            "profit": 2000
+        }]
+    },
+    "Ice_Spirit": {
+        "description": "Releases freezing or slowing projectiles upon an enemy's death on the position of that enemy at given rate:\n\u00a0\u2022 LV 1 releases 4 freezing arrows with AT of 25-50 and 1s freeze time, which bounces off terrain.\n\u00a0\u2022 LV 2 releases 9 ice clouds with AT of 5-5 with Slow 40%, and rain down in an arc. The clouds deal splash damage.\n\u00a0\u2022 LV 3 releases 25 freezing needles with AT of 5-5 and 0.4s freeze time, raining down in a higher arc than LV2.\n\u00a0\u2022 LV4 releases an ice meteor with AT of 100-150 and Slow 20%, which then shatters into 9 slowing projectiles with an AT of 10-15 and slow 20%. The attack looks like the Magician's Ice Meteor weapon.",
+        "restrictions": "None",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Ice Spirit 1",
+            "effect": "50% enemy dies freeze arrow",
+            "droppedBy": "Ice_Castle_Boss",
+            "location": "Ice_Castle",
+            "purchase": 4000,
+            "profit": 500
+        }, {
+            "name": "Ice Spirit 2",
+            "effect": "20% enemy dies ice mist",
+            "droppedBy": "Ice_Castle_Boss",
+            "location": "Ice_Castle",
+            "purchase": 8000,
+            "profit": 1000
+        }, {
+            "name": "Ice Spirit 3",
+            "effect": "20% enemy dies freeze spike",
+            "droppedBy": "Ice_Castle_Boss",
+            "location": "Ice_Castle",
+            "purchase": 12000,
+            "profit": 1500
+        }, {
+            "name": "Ice Spirit 4",
+            "effect": "40% enemy dies ice meteor",
+            "droppedBy": "Blue_Boss_Fairy_Eel",
+            "location": "Mountaintop",
+            "purchase": 16000,
+            "profit": 2000
+        }]
+    },
+    "Poison_Spirit": {
+        "description": "Releases poisoning attacks upon an enemy's death on the position of that enemy at given rate: Releases 6 poison clouds with AT of 1-1 and 20s poison time. The clouds can deal splash damage.",
+        "restrictions": "None",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Poison Spirit 4",
+            "effect": "60% enemy dies poison",
+            "droppedBy": "Green_Boss_Cap_Eel",
+            "location": "Mountaintop",
+            "purchase": "-",
+            "profit": 2500
+        }]
+    }
+}

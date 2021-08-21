@@ -1,0 +1,222 @@
+{
+    "Bronze_Medal": {
+        "description": "The Bronze Medal affects the drop rate for items defined in the enemy drop section, such as weapons and compo items. For example, if the drop rate for an item is 10% without medals the new drop rate with one Bronze Medal 1 will be 11%. The effect does stack, for example, a team with one Bronze Medal 2 and two Bronze Medals 1 with the base drop rate of 10% the drop rate will be 14%.",
+        "restrictions": "None",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Bronze Medal 1",
+            "effect": "+10% drop rate",
+            "droppedBy": "Green_Smiley_Fish",
+            "location": "Lake",
+            "purchase": 2000,
+            "profit": 250
+        }, {
+            "name": "Bronze Medal 2",
+            "effect": "+20% drop rate",
+            "droppedBy": "Yellow_Skull_Fish",
+            "location": "CV1",
+            "purchase": "-",
+            "profit": 500
+        }, {
+            "name": "Bronze Medal 3",
+            "effect": "+30% drop rate",
+            "droppedBy": "Grey_Mask_Fish",
+            "location": "SM4",
+            "purchase": "-",
+            "profit": 750
+        }, {
+            "name": "Bronze Medal 4",
+            "effect": "+40% drop rate",
+            "droppedBy": "White_Box_Eel",
+            "location": "Oasis",
+            "purchase": "-",
+            "profit": 1000
+        }, {
+            "name": "Bronze Medal 5",
+            "effect": "+50% drop rate",
+            "droppedBy": "Blue_Shield_Copter",
+            "location": "Frozen_Lake",
+            "purchase": 10000,
+            "profit": 1250
+        }, {
+            "name": "Bronze Medal 6",
+            "effect": "+75% drop rate",
+            "droppedBy": "Purple_Coconut_Germ",
+            "location": "!!!",
+            "purchase": "-",
+            "profit": 1500
+        }, {
+            "name": "Bronze Medal 7",
+            "effect": "+100% drop rate",
+            "droppedBy": "Orange_Box_Fish",
+            "location": "Blood_Lake",
+            "purchase": "-",
+            "profit": 1750
+        }]
+    },
+    "Silver_Medal": {
+        "description": "The Silver Medal improves the normal drop rate of 20% for Onigiri. The effect does stack, for example a team with one Silver Medal 2 and two Silver Medals 1 will have a drop rate of 28%.",
+        "restrictions": "None",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Silver Medal 1",
+            "effect": "+10% chance of onigiri drop",
+            "droppedBy": "Pink_Skull_Tree",
+            "location": "Lake",
+            "purchase": 2000,
+            "profit": 250
+        }, {
+            "name": "Silver Medal 2",
+            "effect": "+20% chance of onigiri drop",
+            "droppedBy": "Yellow_Smiley_Fish",
+            "location": "CV2",
+            "purchase": "-",
+            "profit": 500
+        }, {
+            "name": "Silver Medal 3",
+            "effect": "+30% chance of onigiri drop",
+            "droppedBy": "Grey_Big_Mask_Fish",
+            "location": "SM4",
+            "purchase": "-",
+            "profit": 750
+        }, {
+            "name": "Silver Medal 4",
+            "effect": "+40% chance of onigiri drop",
+            "droppedBy": "Green_Diamond_Eel",
+            "location": "Oasis",
+            "purchase": "-",
+            "profit": 1000
+        }, {
+            "name": "Silver Medal 5",
+            "effect": "+50% chance of onigiri drop",
+            "droppedBy": "White_Big_Fairy_Snake",
+            "location": "Frozen_Lake",
+            "purchase": 10000,
+            "profit": 1250
+        }, {
+            "name": "Silver Medal 6",
+            "effect": "+75% chance of onigiri drop",
+            "droppedBy": "Purple_Coconut_Germ",
+            "location": "!!!",
+            "purchase": "-",
+            "profit": 1500
+        }, {
+            "name": "Silver Medal 7",
+            "effect": "+100% chance of onigiri drop",
+            "droppedBy": "Green_Box_Tree",
+            "location": "Blood_Lake",
+            "purchase": "-",
+            "profit": 1750
+        }]
+    },
+    "Gold_Medal": {
+        "description": "This increases the value of all dropped gold, but not the drop rate. For example, if an enemy has a gold drop of 100, the value will increase to 110 with a single Gold Medal 1 equipped. This effect is applied upon killing an enemy, thus it does not affect gold from selling items at the Shop. A team with multiple Gold Medals will add extra gold in the same manner as simple interest, not compound interest. It is also affected on gold dropped by using the Gold rush Card.",
+        "restrictions": "None",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Gold Medal 1",
+            "effect": "+10% gold UP",
+            "droppedBy": "Tan_Skull_Fish",
+            "location": "Lake",
+            "purchase": 2000,
+            "profit": 250
+        }, {
+            "name": "Gold Medal 2",
+            "effect": "+20% gold UP",
+            "droppedBy": "Yellow_Fairy_Fish",
+            "location": "CV3",
+            "purchase": "-",
+            "profit": 500
+        }, {
+            "name": "Gold Medal 3",
+            "effect": "+30% gold UP",
+            "droppedBy": "Yellow_Roundhead_Fish",
+            "location": "SM4",
+            "purchase": "-",
+            "profit": 750
+        }, {
+            "name": "Gold Medal 4",
+            "effect": "+40% gold UP",
+            "droppedBy": "Red_Box_Eel",
+            "location": "Oasis",
+            "purchase": "-",
+            "profit": 1000
+        }, {
+            "name": "Gold Medal 5",
+            "effect": "+50% gold UP",
+            "droppedBy": "Yellow_Big_Gel_Tree",
+            "location": "Frozen_Lake",
+            "purchase": 10000,
+            "profit": 1250
+        }, {
+            "name": "Gold Medal 6",
+            "effect": "+75% gold UP",
+            "droppedBy": "Pink_Boss_Coconut_Germ",
+            "location": "!!!",
+            "purchase": "-",
+            "profit": 1500
+        }, {
+            "name": "Gold Medal 7",
+            "effect": "+100% gold UP",
+            "droppedBy": "Brown_Boss_Box_Germ",
+            "location": "Blood_Lake",
+            "purchase": "-",
+            "profit": 1750
+        }]
+    },
+    "Iron_Medal": {
+        "description": "This medal was added much later than the other types of medals; it was added in ver5.1. Each Iron Medal adds extra EXP upon killing an enemy. For example, if one has 4 Iron Medal 2s equipped, that person gets an extra 80% of EXP as 4(20%) = 80%. Once players have reached the maximum level, this medal will become useless.",
+        "restrictions": "None",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Iron Medal 1",
+            "effect": "+10% EXP UP",
+            "droppedBy": "Grey_Boss_Smiley_Walker",
+            "location": "OS",
+            "purchase": 2000,
+            "profit": 250
+        }, {
+            "name": "Iron Medal 2",
+            "effect": "+20% EXP UP",
+            "droppedBy": "White_Boss_Smiley_Fish",
+            "location": "Lake",
+            "purchase": "-",
+            "profit": 500
+        }, {
+            "name": "Iron Medal 3",
+            "effect": "+30% EXP UP",
+            "droppedBy": "Pink_Gel_Spider",
+            "location": "???",
+            "purchase": "-",
+            "profit": 750
+        }, {
+            "name": "Iron Medal 4",
+            "effect": "+40% EXP UP",
+            "droppedBy": "Yellow_Boss_Box_Eel",
+            "location": "Oasis",
+            "purchase": "-",
+            "profit": 1000
+        }, {
+            "name": "Iron Medal 5",
+            "effect": "+50% EXP UP",
+            "droppedBy": "White_Boss_Vampire_Mushroom",
+            "location": "Frozen_Lake",
+            "purchase": 10000,
+            "profit": 1250
+        }, {
+            "name": "Iron Medal 6",
+            "effect": "+75% EXP UP",
+            "droppedBy": "Pink_Boss_Coconut_Germ",
+            "location": "!!!",
+            "purchase": "-",
+            "profit": 1500
+        }, {
+            "name": "Iron Medal 7",
+            "effect": "+100% EXP UP",
+            "droppedBy": "Blue_Box_Copter",
+            "location": "Blood_Lake",
+            "purchase": "-",
+            "profit": 1750
+        }]
+    }
+}

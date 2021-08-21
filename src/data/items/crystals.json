@@ -1,0 +1,277 @@
+{
+    "Black_Crystal": {
+        "description": "Whenever an enemy attacks this character, there is a chance that all of the damage dealt will be nullified. This is represented by a pink '0' damage number. This applies to physical as well as magical attacks, but status ailments such as slow, poison or freeze are unaffected by this.",
+        "restrictions": "None",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Black Crystal 1",
+            "effect": "Block rate 10%",
+            "droppedBy": "Orange_Smiley_Walker",
+            "location": "GL2",
+            "purchase": 1200,
+            "profit": 150
+        }, {
+            "name": "Black Crystal 2",
+            "effect": "Block rate 20%",
+            "droppedBy": "Orange_Smiley_Walker",
+            "location": "CV1",
+            "purchase": 2400,
+            "profit": 300
+        }, {
+            "name": "Black Crystal 3",
+            "effect": "Block rate 30%",
+            "droppedBy": "Grey_Smiley_Fish,Pink_Gel_Spider",
+            "location": "SM3,???",
+            "purchase": 3600,
+            "profit": 450
+        }, {
+            "name": "Black Crystal 4",
+            "effect": "Block rate 40%",
+            "droppedBy": "Cyan_Box_Eel",
+            "location": "D5",
+            "purchase": 4800,
+            "profit": 600
+        }, {
+            "name": "Black Crystal 5",
+            "effect": "Block rate 50%",
+            "droppedBy": "Grey_Boss_Castle_Wheel",
+            "location": "M1",
+            "purchase": 6000,
+            "profit": 750
+        }, {
+            "name": "Black Crystal 6",
+            "effect": "Block rate 60%",
+            "droppedBy": "Grey_Boss_Demon_Stickman",
+            "location": "F5",
+            "purchase": "-",
+            "profit": 900
+        }, {
+            "name": "Black Crystal 7",
+            "effect": "Block rate 70%",
+            "droppedBy": "Yellow_Box_Germ",
+            "location": "CV8",
+            "purchase": "-",
+            "profit": 1050
+        }]
+    },
+    "Silver_Crystal": {
+        "description": "Decreases the damage dealt to this character by projectiles. Damage of projectiles cannot be reduced below 1. This applies to physical attacks only. When deciding whether to have a Black, Silver or Purple Crystal for character defense, the preference is circumstantial. Attacks of high repetition, either magical or physical, that deal one damage per hit are best with a Black Crystal, because it can reduce average damage per hit below one. Standard physical attacks between 2 and 20 are best with the Silver Crystal, since it reduces the average hit the most. Magical attacks of the same damage are best suited for the Purple Crystal, and higher damages are best with the Black Crystal.",
+        "restrictions": "None",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Silver Crystal 1",
+            "effect": "Defense +1",
+            "droppedBy": "White_Skull_Bat,Green_Gel_Walker,Green_Roundhead_Bat",
+            "location": "GL2,S4,S4",
+            "purchase": 1200,
+            "profit": 150
+        }, {
+            "name": "Silver Crystal 2",
+            "effect": "Defense +3",
+            "droppedBy": "Yellow_Skull_Stickman,Tan_Star_Stickman",
+            "location": "CV3,S4",
+            "purchase": 2400,
+            "profit": 300
+        }, {
+            "name": "Silver Crystal 3",
+            "effect": "Defense +6",
+            "droppedBy": "Grey_Smiley_Fish",
+            "location": "SM3",
+            "purchase": 3600,
+            "profit": 450
+        }, {
+            "name": "Silver Crystal 4",
+            "effect": "Defense +9",
+            "droppedBy": "White_Boss_Box_Stickman",
+            "location": "D5",
+            "purchase": 4800,
+            "profit": 600
+        }, {
+            "name": "Silver Crystal 5",
+            "effect": "Defense +12",
+            "droppedBy": "Grey_Boss_Castle_Wheel",
+            "location": "M1",
+            "purchase": 6000,
+            "profit": 750
+        }, {
+            "name": "Silver Crystal 6",
+            "effect": "Defense +15",
+            "droppedBy": "Grey_Boss_Demon_Stickman",
+            "location": "F5",
+            "purchase": "-",
+            "profit": 900
+        }, {
+            "name": "Silver Crystal 7",
+            "effect": "Defense +18",
+            "droppedBy": "Red_Diamond_Snake",
+            "location": "CV8",
+            "purchase": "-",
+            "profit": 1050
+        }]
+    },
+    "Red_Crystal": {
+        "description": "Increases the minimum and maximum AT of the character by a certain amount. This Crystal does not affect magical damage. The AT bonus from this crystal can be boosted by the Priest's AT aura.",
+        "restrictions": "Gloves, Swords, Bows, Guns, Whips, or Rings",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Red Crystal 1",
+            "effect": "AT +(1-3)",
+            "droppedBy": "Grey_Smiley_Snake",
+            "location": "GL1",
+            "purchase": 1200,
+            "profit": 150
+        }, {
+            "name": "Red Crystal 2",
+            "effect": "AT +(2-6)",
+            "droppedBy": "Red_Cap_Snake",
+            "location": "CV1",
+            "purchase": 2400,
+            "profit": 300
+        }, {
+            "name": "Red Crystal 3",
+            "effect": "AT +(3-9)",
+            "droppedBy": "Orange_Mask_Eel,Pink_Gel_Spider",
+            "location": "SM3,???",
+            "purchase": 3600,
+            "profit": 450
+        }, {
+            "name": "Red Crystal 4",
+            "effect": "AT +(4-12)",
+            "droppedBy": "Red_Big_Diamond_Spider",
+            "location": "D5",
+            "purchase": 4800,
+            "profit": 600
+        }, {
+            "name": "Red Crystal 5",
+            "effect": "AT +(5-15)",
+            "droppedBy": "Red_Diamond_Tree",
+            "location": "M1",
+            "purchase": 6000,
+            "profit": 750
+        }, {
+            "name": "Red Crystal 6",
+            "effect": "AT +(6-18)",
+            "droppedBy": "Orange_Roundhead_Stickman",
+            "location": "F5",
+            "purchase": "-",
+            "profit": 900
+        }, {
+            "name": "Red Crystal 7",
+            "effect": "AT +(7-21)",
+            "droppedBy": "Orange_Diamond_Bat",
+            "location": "CV7",
+            "purchase": "-",
+            "profit": 1050
+        }]
+    },
+    "Yellow_Crystal": {
+        "description": "Increases both minimum and maximum AT of the character by a certain percentage of its current value. This crystal does not affect elemental damage. The bonus multiplies with Aura AT of one or more Priests. For example, if a Yellow Crystal 1 is equipped for a Gladiator, and a nearby Priest has 30% Aura AT, the character AT of the Gladiator increases by about 56%. The crystal can be generally better than the Red Crystal.",
+        "restrictions": "Gloves, Swords, Bows, Guns, Whips, or Rings",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Yellow Crystal 1",
+            "effect": "AT +20%",
+            "droppedBy": "Red_Skull_Snake",
+            "location": "GL1",
+            "purchase": 1200,
+            "profit": 150
+        }, {
+            "name": "Yellow Crystal 2",
+            "effect": "AT +30%",
+            "droppedBy": "Pink_Fairy_Bat",
+            "location": "CV2",
+            "purchase": 2400,
+            "profit": 300
+        }, {
+            "name": "Yellow Crystal 3",
+            "effect": "AT +40%",
+            "droppedBy": "Orange_Mask_Eel,Pink_Gel_Spider",
+            "location": "SM3,???",
+            "purchase": 3600,
+            "profit": 450
+        }, {
+            "name": "Yellow Crystal 4",
+            "effect": "AT +50%",
+            "droppedBy": "Yellow_Big_Diamond_Cactus",
+            "location": "D5",
+            "purchase": 4800,
+            "profit": 600
+        }, {
+            "name": "Yellow Crystal 5",
+            "effect": "AT +60%",
+            "droppedBy": "Olive_Diamond_Tree",
+            "location": "M1",
+            "purchase": 6000,
+            "profit": 750
+        }, {
+            "name": "Yellow Crystal 6",
+            "effect": "AT +70%",
+            "droppedBy": "Yellow_Roundhead_Stickman",
+            "location": "F5",
+            "purchase": "-",
+            "profit": 900
+        }, {
+            "name": "Yellow Crystal 7",
+            "effect": "AT +80%",
+            "droppedBy": "Green_Boss_Cap_Tree",
+            "location": "CV7",
+            "purchase": "-",
+            "profit": 1050
+        }]
+    },
+    "Purple_Crystal": {
+        "description": "Reduces the damage dealt to this character by magical attacks and their time of effect on this character by a certain percentage of it's current value. For attacks of type Fire or Thunder, the damage taken is reduced. For attacks of type Poison, Ice or Freeze, both the AT of the attack and the time of effect are reduced.",
+        "restrictions": "None",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Purple Crystal 1",
+            "effect": "Magical Defense 10%",
+            "droppedBy": "Pink_Skull_Snake",
+            "location": "GL5",
+            "purchase": 1200,
+            "profit": 150
+        }, {
+            "name": "Purple Crystal 2",
+            "effect": "Magical Defense 20%",
+            "droppedBy": "Blue_Skull_Bat",
+            "location": "CV2",
+            "purchase": 2400,
+            "profit": 300
+        }, {
+            "name": "Purple Crystal 3",
+            "effect": "Magical Defense 30%",
+            "droppedBy": "Blue_Roundhead_Fish,Pink_Gel_Spider",
+            "location": "SM3,???",
+            "purchase": 3600,
+            "profit": 450
+        }, {
+            "name": "Purple Crystal 4",
+            "effect": "Magical Defense 40%",
+            "droppedBy": "Cyan_Box_Eel",
+            "location": "D5",
+            "purchase": 4800,
+            "profit": 600
+        }, {
+            "name": "Purple Crystal 5",
+            "effect": "Magical Defense 50%",
+            "droppedBy": "Blue_Diamond_Wheel",
+            "location": "M1",
+            "purchase": 6000,
+            "profit": 750
+        }, {
+            "name": "Purple Crystal 6",
+            "effect": "Magical Defense 60%",
+            "droppedBy": "Blue_Roundhead_Stickman",
+            "location": "F5",
+            "purchase": "-",
+            "profit": 900
+        }, {
+            "name": "Purple Crystal 7",
+            "effect": "Magical Defense 70%",
+            "droppedBy": "Red_Boss_Gel_Tree",
+            "location": "CV8",
+            "purchase": "-",
+            "profit": 1050
+        }]
+    }
+}

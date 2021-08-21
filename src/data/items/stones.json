@@ -1,0 +1,277 @@
+{
+    "White_Stone": {
+        "description": "Increases the maximum LP of the character.",
+        "restrictions": "None",
+        "imagePath": "",
+        "itemList": [{
+            "name": "White Stone 1",
+            "effect": "LP +50",
+            "droppedBy": "Green_Smiley_Walker,Purple_X_Walker",
+            "location": "OS,GL2",
+            "purchase": 400,
+            "profit": 50
+        }, {
+            "name": "White Stone 2",
+            "effect": "LP +100",
+            "droppedBy": "Tan_Skull_Snake",
+            "location": "F1",
+            "purchase": 800,
+            "profit": 100
+        }, {
+            "name": "White Stone 3",
+            "effect": "LP +150",
+            "droppedBy": "Pink_Roundhead_Eel",
+            "location": "SM1",
+            "purchase": 1200,
+            "profit": 150
+        }, {
+            "name": "White Stone 4",
+            "effect": "LP +200",
+            "droppedBy": "Grey_Box_Wheel",
+            "location": "D2",
+            "purchase": 1600,
+            "profit": 200
+        }, {
+            "name": "White Stone 5",
+            "effect": "LP +300",
+            "droppedBy": "Cyan_X_Walker",
+            "location": "SF1",
+            "purchase": 2000,
+            "profit": 250
+        }, {
+            "name": "White Stone 6",
+            "effect": "LP +400",
+            "droppedBy": "Pink_Roundhead_Mushroom",
+            "location": "F3",
+            "purchase": 2400,
+            "profit": 300
+        }, {
+            "name": "White Stone 7",
+            "effect": "LP +500",
+            "droppedBy": "Yellow_Coconut_Spider",
+            "location": "I3",
+            "purchase": "-",
+            "profit": 350
+        }]
+    },
+    "Red_Stone": {
+        "description": "This stone is a great help to melees and ranged characters whose weapon range is very low, such as the Magician's Electric Shock 5.",
+        "restrictions": "None",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Red Stone 1",
+            "effect": "STR +5",
+            "droppedBy": "Cyan_Smiley_Walker",
+            "location": "OS",
+            "purchase": 400,
+            "profit": 50
+        }, {
+            "name": "Red Stone 2",
+            "effect": "STR +10",
+            "droppedBy": "Red_Skull_Snake",
+            "location": "F1",
+            "purchase": 800,
+            "profit": 100
+        }, {
+            "name": "Red Stone 3",
+            "effect": "STR +15",
+            "droppedBy": "Pink_Roundhead_Fish",
+            "location": "SM2",
+            "purchase": 1200,
+            "profit": 150
+        }, {
+            "name": "Red Stone 4",
+            "effect": "STR +20",
+            "droppedBy": "Red_Box_Dragon",
+            "location": "D2",
+            "purchase": 1600,
+            "profit": 200
+        }, {
+            "name": "Red Stone 5",
+            "effect": "STR +25",
+            "droppedBy": "Orange_Shield_Bat",
+            "location": "CV6",
+            "purchase": 2000,
+            "profit": 250
+        }, {
+            "name": "Red Stone 6",
+            "effect": "STR +30",
+            "droppedBy": "Orange_Roundhead_Tree",
+            "location": "F3",
+            "purchase": 2400,
+            "profit": 300
+        }, {
+            "name": "Red Stone 7",
+            "effect": "STR +40",
+            "droppedBy": "Orange_Coconut_Spider",
+            "location": "I3",
+            "purchase": "-",
+            "profit": 350
+        }]
+    },
+    "Green_Stone": {
+        "description": "This stone can be very useful to Boxers, Magicians and Gunners. Higher levels of this stone can potentially let characters of these classes reach their lowest AGI.",
+        "restrictions": "None",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Green Stone 1",
+            "effect": "DEX +5",
+            "droppedBy": "Red_Smiley_Walker",
+            "location": "OS",
+            "purchase": 400,
+            "profit": 50
+        }, {
+            "name": "Green Stone 2",
+            "effect": "DEX +10",
+            "droppedBy": "Green_Cap_Mushroom",
+            "location": "F1",
+            "purchase": 800,
+            "profit": 100
+        }, {
+            "name": "Green Stone 3",
+            "effect": "DEX +15",
+            "droppedBy": "Green_Gel_Tree",
+            "location": "SM2",
+            "purchase": 1200,
+            "profit": 150
+        }, {
+            "name": "Green Stone 4",
+            "effect": "DEX +20",
+            "droppedBy": "Green_Diamond_Cactus",
+            "location": "D2",
+            "purchase": 1600,
+            "profit": 200
+        }, {
+            "name": "Green Stone 5",
+            "effect": "DEX +25",
+            "droppedBy": "Green_Shield_Bat",
+            "location": "CV6",
+            "purchase": 2000,
+            "profit": 250
+        }, {
+            "name": "Green Stone 6",
+            "effect": "DEX +30",
+            "droppedBy": "Green_Gel_Bouncer",
+            "location": "F3",
+            "purchase": 2400,
+            "profit": 300
+        }, {
+            "name": "Green Stone 7",
+            "effect": "DEX +40",
+            "droppedBy": "Green_Boss_Coconut_Spider",
+            "location": "I3",
+            "purchase": "-",
+            "profit": 350
+        }]
+    },
+    "Blue_Stone": {
+        "description": "This stone can greatly help in gaining MP for very high MP-charge weapons (such as the Explosion Flail 6 and Charge Chakram 6) as well as gaining range for Priests.",
+        "restrictions": "None",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Blue Stone 1",
+            "effect": "MAG +5",
+            "droppedBy": "Blue_X_Walker",
+            "location": "OS",
+            "purchase": 400,
+            "profit": 50
+        }, {
+            "name": "Blue Stone 2",
+            "effect": "MAG +10",
+            "droppedBy": "Purple_Cap_Mushroom",
+            "location": "F2",
+            "purchase": 800,
+            "profit": 100
+        }, {
+            "name": "Blue Stone 3",
+            "effect": "MAG +15",
+            "droppedBy": "White_Roundhead_Fish",
+            "location": "SM1",
+            "purchase": 1200,
+            "profit": 150
+        }, {
+            "name": "Blue Stone 4",
+            "effect": "MAG +20",
+            "droppedBy": "Pink_Diamond_Cactus",
+            "location": "D3",
+            "purchase": 1600,
+            "profit": 200
+        }, {
+            "name": "Blue Stone 5",
+            "effect": "MAG +25",
+            "droppedBy": "Yellow_Shield_Bat",
+            "location": "CV6",
+            "purchase": 2000,
+            "profit": 250
+        }, {
+            "name": "Blue Stone 6",
+            "effect": "MAG +30",
+            "droppedBy": "Pink_Coconut_Copter",
+            "location": "F3",
+            "purchase": 2400,
+            "profit": 300
+        }, {
+            "name": "Blue Stone 7",
+            "effect": "MAG +40",
+            "droppedBy": "Blue_Coconut_Spider",
+            "location": "I3",
+            "purchase": "-",
+            "profit": 350
+        }]
+    },
+    "Black_Stone": {
+        "description": "This stone compiles all stats equally and is more useful on characters whose stats are nearly the same. It works very well with Gladiators and Priests.",
+        "restrictions": "None",
+        "imagePath": "",
+        "itemList": [{
+            "name": "Black Stone 1",
+            "effect": "STR, DEX, MAG +2",
+            "droppedBy": "Green_Skull_Snake,Orange_Skull_Bat",
+            "location": "GL1,GL2",
+            "purchase": 400,
+            "profit": 50
+        }, {
+            "name": "Black Stone 2",
+            "effect": "STR, DEX, MAG +4",
+            "droppedBy": "Tan_Skull_Bat",
+            "location": "F2",
+            "purchase": 800,
+            "profit": 100
+        }, {
+            "name": "Black Stone 3",
+            "effect": "STR, DEX, MAG +6",
+            "droppedBy": "Pink_Gel_Walker",
+            "location": "SM2",
+            "purchase": 1200,
+            "profit": 150
+        }, {
+            "name": "Black Stone 4",
+            "effect": "STR, DEX, MAG +8",
+            "droppedBy": "Orange_Box_Cactus",
+            "location": "D3",
+            "purchase": 1600,
+            "profit": 200
+        }, {
+            "name": "Black Stone 5",
+            "effect": "STR, DEX, MAG +10",
+            "droppedBy": "Grey_X_Walker",
+            "location": "SF1",
+            "purchase": 2000,
+            "profit": 250
+        }, {
+            "name": "Black Stone 6",
+            "effect": "STR, DEX, MAG +15",
+            "droppedBy": "Green_Big_Gel_Bouncer",
+            "location": "F4",
+            "purchase": 2400,
+            "profit": 300
+        }, {
+            "name": "Black Stone 7",
+            "effect": "STR, DEX, MAG +20",
+            "droppedBy": "Green_Boss_Coconut_Spider",
+            "location": "I3",
+            "purchase": "-",
+            "profit": 350
+        }]
+    }
+}
